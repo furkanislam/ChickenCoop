@@ -1,4 +1,4 @@
-# 🐔 ChickenCoop
+# 🐔 ChickenCoopModel
 
 iOS tabanlı bir kümes yönetim uygulaması. SwiftUI, SwiftData ve MVVM mimarisi kullanılarak sıfırdan geliştirildi. Kümes adını, sorumlu kişiyi, yumurta ve tavuk sayısını takip etmeni sağlayan sade ve güçlü bir uygulamadır.
 
